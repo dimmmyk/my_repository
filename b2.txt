@@ -1,1 +1,3 @@
 New b2 text file
+
+New line added
